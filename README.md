@@ -156,7 +156,7 @@ print("Test RMSE:", test_RMSE)
 
 # Type-2 Maximum Likelihood
 
-Precisions are defined as: $\alpha = 1 / \sigma_w^2$ and $ \beta = 1 / \sigma_{\epsilon}^2 $   
+Precisions are defined as: $\alpha = 1/\sigma_w^2$ and $\beta = 1/\sigma_{\epsilon}^2$   
 Priors of $\alpha$ and $\beta$ are assumed to follow flat Uniform distributions,
 
 
